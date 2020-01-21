@@ -12,7 +12,7 @@
 
 ## Want more? Go PRO!
 
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suport** (via [Discord](https://discord.gg/fZC6hup)) 
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
 
 | [Django Dashboard Light PRO](https://appseed.us/admin-dashboards/django-dashboard-light-pro) | [Django Dashboard Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro) | [Django Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/django-dashboard-dashkit-pro) |
 | --- | --- | --- |
