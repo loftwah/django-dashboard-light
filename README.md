@@ -83,4 +83,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 <br />
 
 ---
-# [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
