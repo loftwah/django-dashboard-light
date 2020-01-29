@@ -1,6 +1,8 @@
 # [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
 
-**Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
+**Open-Source Admin Dashboard** coded in **[Django Framework](https://www.djangoproject.com/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+### Dashboard Features:
 
 - SQLite, Django native ORM
 - Modular design
@@ -81,4 +83,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 <br />
 
 ---
-# [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - provided by **AppSeed**
+# [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
